@@ -1,5 +1,5 @@
 # Change these first
-owner: alivenotions # Your GitHub username
+owner: getfetch-io # Your GitHub username
 repo: status.getfetch.io # Your Github repository name
 
 # Add your sites here
@@ -25,10 +25,8 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /status.getfetch.io
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  logoUrl: https://avatars2.githubusercontent.com/u/70174612?s=400&u=ad5d7c8bcab493c5eb950742d3409516493e722b&v=4
+  name: Fetch
   navbar:
     - title: Status
       href: /
