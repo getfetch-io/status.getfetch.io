@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Landing Page",
+    "url": "https://getfetch.io",
+    "slug": "landing-page",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 534
+  },
+  {
+    "name": "App",
+    "url": "https://app.getfetch.io",
+    "slug": "app",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 687
+  },
+  {
+    "name": "API",
+    "url": "https://api.getfetch.io",
+    "slug": "api",
+    "status": "down",
+    "uptime": "6.36%",
+    "time": 116
+  },
+  {
+    "name": "Blog",
+    "url": "https://blog.getfetch.io",
+    "slug": "blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 817
+  },
+  {
+    "name": "App (staging)",
+    "url": "https://staging.getfetch.io",
+    "slug": "app-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 698
+  },
+  {
+    "name": "API (staging)",
+    "url": "https://dev.getfetch.io",
+    "slug": "api-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 141
+  }
+]
