@@ -21,10 +21,7 @@ sites:
     url: https://dev.getfetch.io
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /status.getfetch.io
+  cname: status.getfetch.io
   logoUrl: https://avatars2.githubusercontent.com/u/70174612?s=400&u=ad5d7c8bcab493c5eb950742d3409516493e722b&v=4
   name: Fetch
   navbar:
