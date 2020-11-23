@@ -35,3 +35,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+notifications:
+  - type: slack
+    channel: C016QTUHP9A
