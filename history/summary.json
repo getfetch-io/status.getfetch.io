@@ -13,7 +13,7 @@
     "slug": "app",
     "status": "up",
     "uptime": "100.00%",
-    "time": 201
+    "time": 207
   },
   {
     "name": "API",
@@ -21,7 +21,7 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.96%",
-    "time": 133
+    "time": 134
   },
   {
     "name": "Blog",
@@ -29,7 +29,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 166
+    "time": 172
   },
   {
     "name": "App (staging)",
@@ -37,7 +37,7 @@
     "slug": "app-staging",
     "status": "up",
     "uptime": "100.00%",
-    "time": 146
+    "time": 152
   },
   {
     "name": "API (staging)",
@@ -45,6 +45,6 @@
     "slug": "api-staging",
     "status": "up",
     "uptime": "99.90%",
-    "time": 153
+    "time": 152
   }
 ]
