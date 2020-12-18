@@ -11,9 +11,9 @@
     "name": "App",
     "url": "https://app.getfetch.io",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 206
+    "time": 200
   },
   {
     "name": "API",
