@@ -19,8 +19,8 @@
     "name": "API",
     "url": "https://api.getfetch.io",
     "slug": "api",
-    "status": "down",
-    "uptime": "91.27%",
+    "status": "up",
+    "uptime": "89.51%",
     "time": 120
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://dev.getfetch.io",
     "slug": "api-staging",
     "status": "down",
-    "uptime": "91.24%",
+    "uptime": "89.48%",
     "time": 139
   }
 ]
