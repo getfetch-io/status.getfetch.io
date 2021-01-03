@@ -43,8 +43,8 @@
     "name": "API (staging)",
     "url": "https://dev.getfetch.io",
     "slug": "api-staging",
-    "status": "down",
-    "uptime": "89.48%",
+    "status": "up",
+    "uptime": "89.46%",
     "time": 139
   }
 ]
