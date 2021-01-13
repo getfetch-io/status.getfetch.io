@@ -5,7 +5,7 @@
     "slug": "landing-page",
     "status": "up",
     "uptime": "100.00%",
-    "time": 776
+    "time": 769
   },
   {
     "name": "App",
@@ -13,15 +13,15 @@
     "slug": "app",
     "status": "up",
     "uptime": "99.97%",
-    "time": 165
+    "time": 164
   },
   {
     "name": "API",
     "url": "https://api.getfetch.io",
     "slug": "api",
     "status": "up",
-    "uptime": "91.23%",
-    "time": 120
+    "uptime": "91.40%",
+    "time": 121
   },
   {
     "name": "Blog",
@@ -37,14 +37,14 @@
     "slug": "app-staging",
     "status": "up",
     "uptime": "100.00%",
-    "time": 122
+    "time": 121
   },
   {
     "name": "API (staging)",
     "url": "https://dev.getfetch.io",
     "slug": "api-staging",
     "status": "up",
-    "uptime": "91.19%",
+    "uptime": "91.36%",
     "time": 140
   }
 ]
